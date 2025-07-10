@@ -91,7 +91,7 @@ O notebook inclui:
 
 ---
 
-## 📚 Referências
+##  Referências
 
 - [Describable Textures Dataset – VGG (Oxford)](https://www.robots.ox.ac.uk/~vgg/data/dtd/)
 - [VGGNet Architecture – Medium](https://medium.com/@siddheshb008/vgg-net-architecture-explained-71179310050f)
