@@ -107,7 +107,7 @@ O notebook inclui:
 
 ---
 
-## 📎 Arquivo
+##  Arquivo
 
 - `ClassificacaodeTexturascomVGGnoDTD.ipynb`: notebook com todo o pipeline de pré-processamento, arquitetura, treinamento e avaliação
 
